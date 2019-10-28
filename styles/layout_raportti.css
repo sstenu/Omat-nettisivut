@@ -1,0 +1,17 @@
+
+body {
+    font-size: 110%;
+    font-family: 'Lora', serif;
+}
+
+
+main { 
+    background-color: #FFFFFF;
+    margin: auto;
+    height: auto;
+}
+
+.osa {
+    margin: 5% 10%
+}
+

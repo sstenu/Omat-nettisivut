@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-size: 110%;
+    font-family: 'Lora', serif;
+}
+
+
+main { 
+    background-color: #FFFFFF;
+    margin: auto;
+    height: auto;
+}
+
+header {
+    background-image:url(images/trees_1.jpg);
+    background-color: #08056F;
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#header_text {
+    color: #000000;
+    letter-spacing: 0.1875em;
+    text-align: left;
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+    font-size: 120%;
+}
+
+nav, footer {
+    background-color: #267DEF;
+    height: 1em;
+    color: #000000;
+    text-align: center;
+    padding: 0.3215em;
+    border-top: 2px solid black;
+    font-weight: bold;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #267DEF;
+
+}
+
+li {
+  display: inline;
+}
+
+li a {
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    padding: 1em;
+    font-weight: bold;
+}
+
+a:link {
+    color: #000000;
+}
+a:hover {
+  color: darkblue;
+}
+
+a:active {
+    color: #267DEF;
+}
+
+#tyokokemus {
+    border-top: 2px solid black;
+}
+
+
+#first {
+    margin: 7em 20%;
+    height: 59em;
+    width: 60%;
+}
+
+table {
+    text-align: left;
+    border-spacing: 10px;
+}
+
+th {
+    border-bottom: 1px solid black;
+}
